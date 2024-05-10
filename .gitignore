@@ -1,0 +1,4 @@
+.env
+node_modules
+jwt_steps.js
+.vercel
